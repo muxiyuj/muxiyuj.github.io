@@ -1,0 +1,5 @@
+@media screen and (orientation: portrait) {
+    .container-viewport {
+    width: 95%;
+}
+}
